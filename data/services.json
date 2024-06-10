@@ -1,0 +1,44 @@
+[
+  {
+    " category": "Weddings",
+    "name": "Everlasting Love Package",
+    "price": "$3,000",
+    "image": "https://bali.love/wp-content/uploads/homeBanner-compressed.jpg",
+    "short_description": "Capture the magic of your special day with full-day coverage, including pre-ceremony preparations, ceremony, reception, and a beautifully edited photo album."
+  },
+  {
+    " category": "Portraits",
+    "name": "Classic Portrait Session",
+    "price": "$350",
+    "image": "https://'image's.pexels.com/photos/160994/family-outdoor-happy-happiness-160994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "short_description": "A one-hour session perfect for individual or family portraits, with 15 professionally edited photos and an online gallery for easy sharing."
+  },
+  {
+    " category": "Events",
+    "name": "Corporate Event Coverage",
+    "price": "$1,500",
+    "image": "https://plus.unsplash.com/premium_photo-1664474653221-8412b8dfca3e?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "short_description": "Comprehensive photography coverage for corporate events, including conferences, seminars, and parties, with high-resolution 'image's delivered in a digital format."
+  },
+  {
+    " category": "Travel",
+    "name": "Wanderlust Adventure Session",
+    "price": "$1,200",
+    "image": "https://'image's.unsplash.com/photo-1528543606781-2f6e6857f318?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "short_description": "Document your travel adventures with stunning landscape and cultural photography, including a full day of shooting and a curated digital gallery."
+  },
+  {
+    " category": "Sports",
+    "name": "Action Shot Package",
+    "price": "$800",
+    "image": "https://'image's.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "short_description": "High-energy sports photography capturing the intensity and excitement of the game, with up to 3 hours of coverage and a selection of 30 edited 'image's."
+  },
+  {
+    " category": "Nature",
+    "name": "Wilderness Expedition",
+    "price": "$1,500",
+    "image": "https://'image's.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "short_description": "Immerse in nature with a full-day photography expedition, capturing wildlife and scenic landscapes, with a collection of 20 high-resolution 'image's."
+  }
+]
